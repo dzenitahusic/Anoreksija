@@ -1,6 +1,6 @@
 # Anoreksija
 
-Ta repozitorij vsebuje projekt, v katerem analiziram podatke o bolezni anoreksija. Ta projekt je pripravljen pri predmetu Racunalniska orodja v matematiki 2020/21 mojega studija v 1. letniku na Fakulteti za matematiko in fiziko, Univerza v Ljubljani.
+Ta repozitorij vsebuje projekt, v katerem analiziram podatke o bolezni anoreksija. Ta projekt je pripravljen pri predmetu **Racunalniska orodja v matematiki** 2020/21 mojega studija v 1. letniku na Fakulteti za matematiko in fiziko, Univerza v Ljubljani.
 
 Pri projektu uporabljamo racunalniski program Mathematica
 
@@ -12,3 +12,5 @@ Pri projektu uporabljamo racunalniski program Mathematica
 5.  Odrasli s prekomerno telesno težo v Angliji 2019 po spolu in regiji. 
 6.  Statistika otrok in mladostnikov s prehranjevalnimi motnjami
 7.  Napisala svoje mnenje o prihodnosti
+
+Pripravila: Dženita Husić
