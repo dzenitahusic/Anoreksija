@@ -13,4 +13,5 @@ Pri projektu uporabljamo racunalniski program Mathematica
 6.  Statistika otrok in mladostnikov s prehranjevalnimi motnjami
 7.  Napisala svoje mnenje o prihodnosti
 
+Povezava do video-posnetka: https://youtu.be/ZbsrgqNb-j8
 Pripravila: Dženita Husić
